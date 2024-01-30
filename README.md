@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Sasidhar</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate full stack developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansasidhar&label=Profile%20views&color=0e75b6&style=flat" alt="chetansasidhar" /> </p>
 
@@ -7,8 +7,6 @@
 - 🔭 I’m currently working on **Frontend Development**
 
 - 🌱 I’m currently learning **JavaScript**
-
-- 🤝 I’m looking for help with **Backend Stack**
 
 - 💬 Ask me about **Web Development**
 
