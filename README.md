@@ -4,11 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetansasidhar&label=Profile%20views&color=0e75b6&style=flat" alt="chetansasidhar" /> </p>
 
 
-- 🔭 I’m currently working on **Frontend Development**
+- 🔭 I’m currently working on **Artificial Intelligence**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Full Stack Developement**
 
 - 📫 How to reach me **ccsasidhar@gmail.com**
 
